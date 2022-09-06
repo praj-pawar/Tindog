@@ -1,0 +1,160 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight:bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Montserrat';
+    font-weight:bolder;
+    font-size: 2.7rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+p{
+    color: #8f8f8f;
+    font-weight: 400;
+}
+
+/*navbar */
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-size: 2.3rem;
+    font-weight: bold;
+    
+}
+
+#navbarTogglerDemo02{
+    padding-left: 400px;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+/* Download Buttons */
+.dbtn{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.timg{
+width: 60%;
+transform: rotate(25deg);
+
+}
+
+/* mid container */
+
+.midc{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+}
+h3{
+    font-size:x-large;
+    font-weight: bold;
+    padding-top: 5%;
+    font-weight: bold;
+}
+
+/* icons */
+.icon{
+    color: #ef8172;
+    
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* Testimonials */
+#testimonials{
+   
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.timgdog{
+    width: 10%;
+    border-radius: 100%;
+    margin: 1rem;
+}
+
+/* press */
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.pimg{
+    width: 13%;
+    margin:4% 13px 7px ;
+}
+
+.timlady{
+    width: 10%;
+    border-radius: 100%;
+    margin: 1rem;
+}
+
+.carousel-item{
+     padding: 7% 15%;
+}
+
+/* pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+
+.pc{
+    padding: 3% 2%;
+ }   
+
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    font-size:x-large;
+    font-weight: bold;
+    padding: 1%;
+    margin-top: 0px;
+    font-size: 3.5rem;
+    
+}
+
+.fbtn{
+    margin: 2% 1% 5% 0;
+}
+
+.ctah3{
+    font-size: 2.5rem;
+}
+/* footer */
+#footer{
+    text-align: center;
+    margin: 2%;
+}
